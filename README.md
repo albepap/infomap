@@ -1,7 +1,8 @@
 # Infomap-Based Community Detection and Graph Neural Networks
 
 ## Course Information
-This project was developed for the course **"INFORMATION THEORY AND INFERENCE" (2024–2025, SCQ0093479)**.  
+This project was developed for the course **"INFORMATION THEORY AND INFERENCE" (2024–2025, SCQ0093479)**,  
+part of the Master’s Degree in **Physics of Data** at the **University of Padova**.  
 **Students involved:** Gabriele Poccianti and Alberto Schiavinato.  
 
 ---

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="v_lat" for="node" attr.name="lat" attr.type="double"/>
+  <key id="v_lon" for="node" attr.name="lon" attr.type="double"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">44009</data>
+      <data key="v_label">Washington</data>
+      <data key="v_lat">41.46965</data>
+      <data key="v_lon">-71.6226277777778</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">44007</data>
+      <data key="v_label">Providence</data>
+      <data key="v_lat">41.8721083333333</data>
+      <data key="v_lon">-71.5799972222222</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">44001</data>
+      <data key="v_label">Bristol</data>
+      <data key="v_lat">41.7172416666667</data>
+      <data key="v_lon">-71.2840083333333</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">44003</data>
+      <data key="v_label">Kent</data>
+      <data key="v_lat">41.6722166666667</data>
+      <data key="v_lon">-71.5931222222222</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">44005</data>
+      <data key="v_label">Newport</data>
+      <data key="v_lat">41.5563638888889</data>
+      <data key="v_lon">-71.2368305555556</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_weight">303860</data>
+    </edge>
+    <edge source="n0" target="n2">
+      <data key="e_weight">289783</data>
+    </edge>
+    <edge source="n0" target="n3">
+      <data key="e_weight">837359</data>
+    </edge>
+    <edge source="n0" target="n4">
+      <data key="e_weight">491391</data>
+    </edge>
+    <edge source="n1" target="n2">
+      <data key="e_weight">410371</data>
+    </edge>
+    <edge source="n1" target="n3">
+      <data key="e_weight">645683</data>
+    </edge>
+    <edge source="n1" target="n4">
+      <data key="e_weight">208488</data>
+    </edge>
+    <edge source="n2" target="n3">
+      <data key="e_weight">410851</data>
+    </edge>
+    <edge source="n2" target="n4">
+      <data key="e_weight">968434</data>
+    </edge>
+    <edge source="n3" target="n4">
+      <data key="e_weight">304803</data>
+    </edge>
+  </graph>
+</graphml>

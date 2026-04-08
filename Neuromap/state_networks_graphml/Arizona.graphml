@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="v_lat" for="node" attr.name="lat" attr.type="double"/>
+  <key id="v_lon" for="node" attr.name="lon" attr.type="double"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">04005</data>
+      <data key="v_label">Coconino</data>
+      <data key="v_lat">35.8352083333333</data>
+      <data key="v_lon">-111.768786111111</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">04009</data>
+      <data key="v_label">Graham</data>
+      <data key="v_lat">32.9319777777778</data>
+      <data key="v_lon">-109.887147222222</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">04013</data>
+      <data key="v_label">Maricopa</data>
+      <data key="v_lat">33.3480555555556</data>
+      <data key="v_lon">-112.493025</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">04007</data>
+      <data key="v_label">Gila</data>
+      <data key="v_lat">33.7992055555556</data>
+      <data key="v_lon">-110.810141666667</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">04001</data>
+      <data key="v_label">Apache</data>
+      <data key="v_lat">35.3840444444444</data>
+      <data key="v_lon">-109.488411111111</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">04011</data>
+      <data key="v_label">Greenlee</data>
+      <data key="v_lat">33.2139972222222</data>
+      <data key="v_lon">-109.239855555556</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">04023</data>
+      <data key="v_label">Santa Cruz</data>
+      <data key="v_lat">31.5261111111111</data>
+      <data key="v_lon">-110.846633333333</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">04021</data>
+      <data key="v_label">Pinal</data>
+      <data key="v_lat">32.9046333333333</data>
+      <data key="v_lon">-111.344605555556</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">04003</data>
+      <data key="v_label">Cochise</data>
+      <data key="v_lat">31.8791833333333</data>
+      <data key="v_lon">-109.751183333333</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">04017</data>
+      <data key="v_label">Navajo</data>
+      <data key="v_lat">35.3903111111111</data>
+      <data key="v_lon">-110.320419444444</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">04015</data>
+      <data key="v_label">Mohave</data>
+      <data key="v_lat">35.6974833333333</data>
+      <data key="v_lon">-113.7621</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">04019</data>
+      <data key="v_label">Pima</data>
+      <data key="v_lat">32.0991027777778</data>
+      <data key="v_lon">-111.789222222222</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">04025</data>
+      <data key="v_label">Yavapai</data>
+      <data key="v_lat">34.5991861111111</data>
+      <data key="v_lon">-112.5526</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">04027</data>
+      <data key="v_label">Yuma</data>
+      <data key="v_lat">32.7686333333333</data>
+      <data key="v_lon">-113.905580555556</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">04012</data>
+      <data key="v_label">La Paz</data>
+      <data key="v_lat">33.7287166666667</data>
+      <data key="v_lon">-113.982469444444</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_weight">91698</data>
+    </edge>
+    <edge source="n0" target="n2">
+      <data key="e_weight">57955</data>
+    </edge>
+    <edge source="n0" target="n3">
+      <data key="e_weight">134415</data>
+    </edge>
+    <edge source="n0" target="n4">
+      <data key="e_weight">501686</data>
+    </edge>
+    <edge source="n0" target="n5">
+      <data key="e_weight">63233</data>
+    </edge>
+    <edge source="n0" target="n6">
+      <data key="e_weight">24397</data>
+    </edge>
+    <edge source="n0" target="n7">
+      <data key="e_weight">41039</data>
+    </edge>
+    <edge source="n0" target="n8">
+      <data key="e_weight">33418</data>
+    </edge>
+    <edge source="n0" target="n9">
+      <data key="e_weight">430709</data>
+    </edge>
+    <edge source="n0" target="n10">
+      <data key="e_weight">61443</data>
+    </edge>
+    <edge source="n0" target="n11">
+      <data key="e_weight">39055</data>
+    </edge>
+    <edge source="n0" target="n12">
+      <data key="e_weight">181647</data>
+    </edge>
+    <edge source="n0" target="n13">
+      <data key="e_weight">25914</data>
+    </edge>
+    <edge source="n0" target="n14">
+      <data key="e_weight">52177</data>
+    </edge>
+    <edge source="n1" target="n2">
+      <data key="e_weight">54767</data>
+    </edge>
+    <edge source="n1" target="n3">
+      <data key="e_weight">1340340</data>
+    </edge>
+    <edge source="n1" target="n4">
+      <data key="e_weight">435692</data>
+    </edge>
+    <edge source="n1" target="n5">
+      <data key="e_weight">10182175</data>
+    </edge>
+    <edge source="n1" target="n6">
+      <data key="e_weight">66161</data>
+    </edge>
+    <edge source="n1" target="n7">
+      <data key="e_weight">116963</data>
+    </edge>
+    <edge source="n1" target="n8">
+      <data key="e_weight">394813</data>
+    </edge>
+    <edge source="n1" target="n9">
+      <data key="e_weight">452848</data>
+    </edge>
+    <edge source="n1" target="n10">
+      <data key="e_weight">25397</data>
+    </edge>
+    <edge source="n1" target="n11">
+      <data key="e_weight">112949</data>
+    </edge>
+    <edge source="n1" target="n12">
+      <data key="e_weight">62906</data>
+    </edge>
+    <edge source="n1" target="n13">
+      <data key="e_weight">17313</data>
+    </edge>
+    <edge source="n1" target="n14">
+      <data key="e_weight">34230</data>
+    </edge>
+    <edge source="n2" target="n3">
+      <data key="e_weight">66253</data>
+    </edge>
+    <edge source="n2" target="n4">
+      <data key="e_weight">51722</data>
+    </edge>
+    <edge source="n2" target="n5">
+      <data key="e_weight">43741</data>
+    </edge>
+    <edge source="n2" target="n6">
+      <data key="e_weight">31051</data>
+    </edge>
+    <edge source="n2" target="n7">
+      <data key="e_weight">79291</data>
+    </edge>
+    <edge source="n2" target="n8">
+      <data key="e_weight">22848</data>
+    </edge>
+    <edge source="n2" target="n9">
+      <data key="e_weight">58519</data>
+    </edge>
+    <edge source="n2" target="n10">
+      <data key="e_weight">15466</data>
+    </edge>
+    <edge source="n2" target="n11">
+      <data key="e_weight">28583</data>
+    </edge>
+    <edge source="n2" target="n12">
+      <data key="e_weight">45220</data>
+    </edge>
+    <edge source="n2" target="n13">
+      <data key="e_weight">25837</data>
+    </edge>
+    <edge source="n2" target="n14">
+      <data key="e_weight">30152</data>
+    </edge>
+    <edge source="n3" target="n4">
+      <data key="e_weight">287508</data>
+    </edge>
+    <edge source="n3" target="n5">
+      <data key="e_weight">505682</data>
+    </edge>
+    <edge source="n3" target="n6">
+      <data key="e_weight">22772</data>
+    </edge>
+    <edge source="n3" target="n7">
+      <data key="e_weight">173554</data>
+    </edge>
+    <edge source="n3" target="n8">
+      <data key="e_weight">52314</data>
+    </edge>
+    <edge source="n3" target="n9">
+      <data key="e_weight">642116</data>
+    </edge>
+    <edge source="n3" target="n10">
+      <data key="e_weight">28687</data>
+    </edge>
+    <edge source="n3" target="n11">
+      <data key="e_weight">38325</data>
+    </edge>
+    <edge source="n3" target="n12">
+      <data key="e_weight">86788</data>
+    </edge>
+    <edge source="n3" target="n13">
+      <data key="e_weight">17653</data>
+    </edge>
+    <edge source="n3" target="n14">
+      <data key="e_weight">51065</data>
+    </edge>
+    <edge source="n4" target="n5">
+      <data key="e_weight">425234</data>
+    </edge>
+    <edge source="n4" target="n6">
+      <data key="e_weight">10885</data>
+    </edge>
+    <edge source="n4" target="n7">
+      <data key="e_weight">58146</data>
+    </edge>
+    <edge source="n4" target="n8">
+      <data key="e_weight">38808</data>
+    </edge>
+    <edge source="n4" target="n9">
+      <data key="e_weight">1292676</data>
+    </edge>
+    <edge source="n4" target="n10">
+      <data key="e_weight">20746</data>
+    </edge>
+    <edge source="n4" target="n11">
+      <data key="e_weight">29307</data>
+    </edge>
+    <edge source="n4" target="n12">
+      <data key="e_weight">39375</data>
+    </edge>
+    <edge source="n4" target="n13">
+      <data key="e_weight">9103</data>
+    </edge>
+    <edge source="n4" target="n14">
+      <data key="e_weight">35917</data>
+    </edge>
+    <edge source="n5" target="n6">
+      <data key="e_weight">79557</data>
+    </edge>
+    <edge source="n5" target="n7">
+      <data key="e_weight">128740</data>
+    </edge>
+    <edge source="n5" target="n8">
+      <data key="e_weight">371996</data>
+    </edge>
+    <edge source="n5" target="n9">
+      <data key="e_weight">220256</data>
+    </edge>
+    <edge source="n5" target="n10">
+      <data key="e_weight">29854</data>
+    </edge>
+    <edge source="n5" target="n11">
+      <data key="e_weight">149203</data>
+    </edge>
+    <edge source="n5" target="n12">
+      <data key="e_weight">91304</data>
+    </edge>
+    <edge source="n5" target="n13">
+      <data key="e_weight">18303</data>
+    </edge>
+    <edge source="n5" target="n14">
+      <data key="e_weight">33993</data>
+    </edge>
+    <edge source="n6" target="n7">
+      <data key="e_weight">30245</data>
+    </edge>
+    <edge source="n6" target="n8">
+      <data key="e_weight">112101</data>
+    </edge>
+    <edge source="n6" target="n9">
+      <data key="e_weight">14186</data>
+    </edge>
+    <edge source="n6" target="n10">
+      <data key="e_weight">5805</data>
+    </edge>
+    <edge source="n6" target="n11">
+      <data key="e_weight">371386</data>
+    </edge>
+    <edge source="n6" target="n12">
+      <data key="e_weight">16609</data>
+    </edge>
+    <edge source="n6" target="n13">
+      <data key="e_weight">19110</data>
+    </edge>
+    <edge source="n6" target="n14">
+      <data key="e_weight">8378</data>
+    </edge>
+    <edge source="n7" target="n8">
+      <data key="e_weight">35621</data>
+    </edge>
+    <edge source="n7" target="n9">
+      <data key="e_weight">81417</data>
+    </edge>
+    <edge source="n7" target="n10">
+      <data key="e_weight">16595</data>
+    </edge>
+    <edge source="n7" target="n11">
+      <data key="e_weight">49679</data>
+    </edge>
+    <edge source="n7" target="n12">
+      <data key="e_weight">35891</data>
+    </edge>
+    <edge source="n7" target="n13">
+      <data key="e_weight">24456</data>
+    </edge>
+    <edge source="n7" target="n14">
+      <data key="e_weight">38487</data>
+    </edge>
+    <edge source="n8" target="n9">
+      <data key="e_weight">35547</data>
+    </edge>
+    <edge source="n8" target="n10">
+      <data key="e_weight">12974</data>
+    </edge>
+    <edge source="n8" target="n11">
+      <data key="e_weight">154769</data>
+    </edge>
+    <edge source="n8" target="n12">
+      <data key="e_weight">31014</data>
+    </edge>
+    <edge source="n8" target="n13">
+      <data key="e_weight">17587</data>
+    </edge>
+    <edge source="n8" target="n14">
+      <data key="e_weight">15084</data>
+    </edge>
+    <edge source="n9" target="n10">
+      <data key="e_weight">28921</data>
+    </edge>
+    <edge source="n9" target="n11">
+      <data key="e_weight">35072</data>
+    </edge>
+    <edge source="n9" target="n12">
+      <data key="e_weight">60328</data>
+    </edge>
+    <edge source="n9" target="n13">
+      <data key="e_weight">15155</data>
+    </edge>
+    <edge source="n9" target="n14">
+      <data key="e_weight">52683</data>
+    </edge>
+    <edge source="n10" target="n11">
+      <data key="e_weight">10784</data>
+    </edge>
+    <edge source="n10" target="n12">
+      <data key="e_weight">50188</data>
+    </edge>
+    <edge source="n10" target="n13">
+      <data key="e_weight">20439</data>
+    </edge>
+    <edge source="n10" target="n14">
+      <data key="e_weight">320910</data>
+    </edge>
+    <edge source="n11" target="n12">
+      <data key="e_weight">23094</data>
+    </edge>
+    <edge source="n11" target="n13">
+      <data key="e_weight">24715</data>
+    </edge>
+    <edge source="n11" target="n14">
+      <data key="e_weight">13657</data>
+    </edge>
+    <edge source="n12" target="n13">
+      <data key="e_weight">16645</data>
+    </edge>
+    <edge source="n12" target="n14">
+      <data key="e_weight">58451</data>
+    </edge>
+    <edge source="n13" target="n14">
+      <data key="e_weight">117857</data>
+    </edge>
+  </graph>
+</graphml>

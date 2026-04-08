@@ -1,0 +1,25 @@
+{
+  "network_name": "Massachusetts",
+  "best_params": {
+    "hidden_channels": 56,
+    "num_layers": 2,
+    "out_channels": 16,
+    "dropout": 0.2,
+    "lr": 0.1,
+    "act": "selu",
+    "norm": "batch",
+    "heads": 2,
+    "heads_idx": 1,
+    "concat_heads": false
+  },
+  "best_score": 3.674319267272949,
+  "best_model": "GCN",
+  "best_model_heads": 4,
+  "best_model_concat": false,
+  "method": "optuna",
+  "n_iter": 1,
+  "restarts": 1,
+  "seed_base": 123,
+  "study_name": "neuromap_hptune_Massachusetts",
+  "storage_url": "sqlite:///neuromap_hptune_Massachusetts.db"
+}

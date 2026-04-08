@@ -1,0 +1,25 @@
+{
+  "network_name": "Puerto_Rico",
+  "best_params": {
+    "hidden_channels": 312,
+    "num_layers": 4,
+    "out_channels": 16,
+    "dropout": 0.5,
+    "lr": 0.001,
+    "act": "selu",
+    "norm": "batch",
+    "heads": 2,
+    "heads_idx": 3,
+    "concat_heads": false
+  },
+  "best_score": 5.790380477905273,
+  "best_model": "GCN",
+  "best_model_heads": 32,
+  "best_model_concat": false,
+  "method": "optuna",
+  "n_iter": 1,
+  "restarts": 1,
+  "seed_base": 123,
+  "study_name": "neuromap_hptune_Puerto_Rico",
+  "storage_url": "sqlite:///neuromap_hptune_Puerto_Rico.db"
+}

@@ -1,0 +1,25 @@
+{
+  "network_name": "Virginia",
+  "best_params": {
+    "hidden_channels": 133,
+    "num_layers": 10,
+    "out_channels": 32,
+    "dropout": 0.0,
+    "lr": 0.001,
+    "act": "relu",
+    "norm": "batch",
+    "heads": 2,
+    "heads_idx": 0,
+    "concat_heads": false
+  },
+  "best_score": 5.663747787475586,
+  "best_model": "GCN",
+  "best_model_heads": 2,
+  "best_model_concat": false,
+  "method": "optuna",
+  "n_iter": 1,
+  "restarts": 1,
+  "seed_base": 123,
+  "study_name": "neuromap_hptune_Virginia",
+  "storage_url": "sqlite:///neuromap_hptune_Virginia.db"
+}

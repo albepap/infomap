@@ -1,0 +1,25 @@
+{
+  "network_name": "Maine",
+  "best_params": {
+    "hidden_channels": 16,
+    "num_layers": 6,
+    "out_channels": 32,
+    "dropout": 0.0,
+    "lr": 0.001,
+    "act": "relu",
+    "norm": "batch",
+    "heads": 2,
+    "heads_idx": 3,
+    "concat_heads": false
+  },
+  "best_score": 3.946444272994995,
+  "best_model": "GCN",
+  "best_model_heads": 32,
+  "best_model_concat": false,
+  "method": "optuna",
+  "n_iter": 1,
+  "restarts": 1,
+  "seed_base": 123,
+  "study_name": "neuromap_hptune_Maine",
+  "storage_url": "sqlite:///neuromap_hptune_Maine.db"
+}

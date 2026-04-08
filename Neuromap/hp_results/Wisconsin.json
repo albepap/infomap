@@ -1,0 +1,25 @@
+{
+  "network_name": "Wisconsin",
+  "best_params": {
+    "hidden_channels": 288,
+    "num_layers": 2,
+    "out_channels": 24,
+    "dropout": 0.0,
+    "lr": 0.0003,
+    "act": "relu",
+    "norm": "batch",
+    "heads": 2,
+    "heads_idx": 1,
+    "concat_heads": false
+  },
+  "best_score": 5.615399360656738,
+  "best_model": "GCN",
+  "best_model_heads": 4,
+  "best_model_concat": false,
+  "method": "optuna",
+  "n_iter": 1,
+  "restarts": 1,
+  "seed_base": 123,
+  "study_name": "neuromap_hptune_Wisconsin",
+  "storage_url": "sqlite:///neuromap_hptune_Wisconsin.db"
+}

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="v_lat" for="node" attr.name="lat" attr.type="double"/>
+  <key id="v_lon" for="node" attr.name="lon" attr.type="double"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">33007</data>
+      <data key="v_label">Coos</data>
+      <data key="v_lat">44.6882138888889</data>
+      <data key="v_lon">-71.3058944444444</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">33015</data>
+      <data key="v_label">Rockingham</data>
+      <data key="v_lat">42.9874944444444</data>
+      <data key="v_lon">-71.1254388888889</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">33017</data>
+      <data key="v_label">Strafford</data>
+      <data key="v_lat">43.2967583333333</data>
+      <data key="v_lon">-71.0286833333333</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">33003</data>
+      <data key="v_label">Carroll</data>
+      <data key="v_lat">43.8733083333333</data>
+      <data key="v_lon">-71.2031166666667</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">33013</data>
+      <data key="v_label">Merrimack</data>
+      <data key="v_lat">43.2974027777778</data>
+      <data key="v_lon">-71.6799</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">33001</data>
+      <data key="v_label">Belknap</data>
+      <data key="v_lat">43.5178388888889</data>
+      <data key="v_lon">-71.4224194444444</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">33005</data>
+      <data key="v_label">Cheshire</data>
+      <data key="v_lat">42.919225</data>
+      <data key="v_lon">-72.2511388888889</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">33011</data>
+      <data key="v_label">Hillsborough</data>
+      <data key="v_lat">42.9152277777778</data>
+      <data key="v_lon">-71.7157611111111</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">33019</data>
+      <data key="v_label">Sullivan</data>
+      <data key="v_lat">43.3612194444444</data>
+      <data key="v_lon">-72.2222138888889</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">33009</data>
+      <data key="v_label">Grafton</data>
+      <data key="v_lat">43.9400638888889</data>
+      <data key="v_lon">-71.8213277777778</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_weight">109318</data>
+    </edge>
+    <edge source="n0" target="n2">
+      <data key="e_weight">176077</data>
+    </edge>
+    <edge source="n0" target="n3">
+      <data key="e_weight">516686</data>
+    </edge>
+    <edge source="n0" target="n4">
+      <data key="e_weight">297904</data>
+    </edge>
+    <edge source="n0" target="n5">
+      <data key="e_weight">328623</data>
+    </edge>
+    <edge source="n0" target="n6">
+      <data key="e_weight">122160</data>
+    </edge>
+    <edge source="n0" target="n7">
+      <data key="e_weight">136744</data>
+    </edge>
+    <edge source="n0" target="n8">
+      <data key="e_weight">199298</data>
+    </edge>
+    <edge source="n0" target="n9">
+      <data key="e_weight">901259</data>
+    </edge>
+    <edge source="n1" target="n2">
+      <data key="e_weight">530391</data>
+    </edge>
+    <edge source="n1" target="n3">
+      <data key="e_weight">184140</data>
+    </edge>
+    <edge source="n1" target="n4">
+      <data key="e_weight">295853</data>
+    </edge>
+    <edge source="n1" target="n5">
+      <data key="e_weight">215328</data>
+    </edge>
+    <edge source="n1" target="n6">
+      <data key="e_weight">85713</data>
+    </edge>
+    <edge source="n1" target="n7">
+      <data key="e_weight">358969</data>
+    </edge>
+    <edge source="n1" target="n8">
+      <data key="e_weight">76874</data>
+    </edge>
+    <edge source="n1" target="n9">
+      <data key="e_weight">109204</data>
+    </edge>
+    <edge source="n2" target="n3">
+      <data key="e_weight">580253</data>
+    </edge>
+    <edge source="n2" target="n4">
+      <data key="e_weight">248873</data>
+    </edge>
+    <edge source="n2" target="n5">
+      <data key="e_weight">351335</data>
+    </edge>
+    <edge source="n2" target="n6">
+      <data key="e_weight">105179</data>
+    </edge>
+    <edge source="n2" target="n7">
+      <data key="e_weight">169784</data>
+    </edge>
+    <edge source="n2" target="n8">
+      <data key="e_weight">105842</data>
+    </edge>
+    <edge source="n2" target="n9">
+      <data key="e_weight">128754</data>
+    </edge>
+    <edge source="n3" target="n4">
+      <data key="e_weight">207349</data>
+    </edge>
+    <edge source="n3" target="n5">
+      <data key="e_weight">683602</data>
+    </edge>
+    <edge source="n3" target="n6">
+      <data key="e_weight">70562</data>
+    </edge>
+    <edge source="n3" target="n7">
+      <data key="e_weight">110083</data>
+    </edge>
+    <edge source="n3" target="n8">
+      <data key="e_weight">71184</data>
+    </edge>
+    <edge source="n3" target="n9">
+      <data key="e_weight">227951</data>
+    </edge>
+    <edge source="n4" target="n5">
+      <data key="e_weight">1132593</data>
+    </edge>
+    <edge source="n4" target="n6">
+      <data key="e_weight">164394</data>
+    </edge>
+    <edge source="n4" target="n7">
+      <data key="e_weight">481569</data>
+    </edge>
+    <edge source="n4" target="n8">
+      <data key="e_weight">433246</data>
+    </edge>
+    <edge source="n4" target="n9">
+      <data key="e_weight">359957</data>
+    </edge>
+    <edge source="n5" target="n6">
+      <data key="e_weight">117653</data>
+    </edge>
+    <edge source="n5" target="n7">
+      <data key="e_weight">248682</data>
+    </edge>
+    <edge source="n5" target="n8">
+      <data key="e_weight">181903</data>
+    </edge>
+    <edge source="n5" target="n9">
+      <data key="e_weight">649144</data>
+    </edge>
+    <edge source="n6" target="n7">
+      <data key="e_weight">234840</data>
+    </edge>
+    <edge source="n6" target="n8">
+      <data key="e_weight">780270</data>
+    </edge>
+    <edge source="n6" target="n9">
+      <data key="e_weight">142061</data>
+    </edge>
+    <edge source="n7" target="n8">
+      <data key="e_weight">133480</data>
+    </edge>
+    <edge source="n7" target="n9">
+      <data key="e_weight">120424</data>
+    </edge>
+    <edge source="n8" target="n9">
+      <data key="e_weight">878471</data>
+    </edge>
+  </graph>
+</graphml>

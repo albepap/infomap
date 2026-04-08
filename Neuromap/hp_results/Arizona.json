@@ -1,0 +1,25 @@
+{
+  "network_name": "Arizona",
+  "best_params": {
+    "hidden_channels": 15,
+    "num_layers": 2,
+    "out_channels": 16,
+    "dropout": 0.2,
+    "lr": 0.1,
+    "act": "selu",
+    "norm": "batch",
+    "heads": 2,
+    "heads_idx": 2,
+    "concat_heads": false
+  },
+  "best_score": 2.9921975135803223,
+  "best_model": "GCN",
+  "best_model_heads": 8,
+  "best_model_concat": false,
+  "method": "optuna",
+  "n_iter": 1,
+  "restarts": 1,
+  "seed_base": 123,
+  "study_name": "neuromap_hptune_Arizona",
+  "storage_url": "sqlite:///neuromap_hptune_Arizona.db"
+}

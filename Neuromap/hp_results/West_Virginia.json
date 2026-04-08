@@ -1,0 +1,25 @@
+{
+  "network_name": "West_Virginia",
+  "best_params": {
+    "hidden_channels": 55,
+    "num_layers": 4,
+    "out_channels": 24,
+    "dropout": 0.5,
+    "lr": 0.001,
+    "act": "selu",
+    "norm": "batch",
+    "heads": 2,
+    "heads_idx": 3,
+    "concat_heads": false
+  },
+  "best_score": 5.064619064331055,
+  "best_model": "GCN",
+  "best_model_heads": 32,
+  "best_model_concat": false,
+  "method": "optuna",
+  "n_iter": 1,
+  "restarts": 1,
+  "seed_base": 123,
+  "study_name": "neuromap_hptune_West_Virginia",
+  "storage_url": "sqlite:///neuromap_hptune_West_Virginia.db"
+}

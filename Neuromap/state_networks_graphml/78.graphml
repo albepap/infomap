@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="v_lat" for="node" attr.name="lat" attr.type="double"/>
+  <key id="v_lon" for="node" attr.name="lon" attr.type="double"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">78010</data>
+      <data key="v_label">St. Croix</data>
+      <data key="v_lat">17.73315</data>
+      <data key="v_lon">-64.767675</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">78020</data>
+      <data key="v_label">St. John</data>
+      <data key="v_lat">18.3387638888889</data>
+      <data key="v_lon">-64.7393583333333</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">78030</data>
+      <data key="v_label">St. Thomas</data>
+      <data key="v_lat">18.3443305555556</data>
+      <data key="v_lon">-64.9290027777778</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_weight">1771854</data>
+    </edge>
+    <edge source="n0" target="n2">
+      <data key="e_weight">5073865</data>
+    </edge>
+    <edge source="n1" target="n2">
+      <data key="e_weight">8597514</data>
+    </edge>
+  </graph>
+</graphml>

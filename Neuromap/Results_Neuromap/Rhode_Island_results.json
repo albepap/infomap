@@ -1,0 +1,69 @@
+{
+    "state_name": "Rhode_Island",
+    "best_hyperparameters": {
+        "hidden_channels": 20,
+        "num_layers": 2,
+        "out_channels": 8,
+        "dropout": 0.5,
+        "lr": 0.001,
+        "act": "selu",
+        "norm": "batch",
+        "heads": 2,
+        "heads_idx": 0,
+        "concat_heads": false
+    },
+    "final_L_bits": 2.3130722045898438,
+    "num_communities": 1,
+    "M_matrix": [
+        [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        [
+            1.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ]
+    ]
+}

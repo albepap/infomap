@@ -1,0 +1,25 @@
+{
+  "network_name": "Delaware",
+  "best_params": {
+    "hidden_channels": 12,
+    "num_layers": 2,
+    "out_channels": 16,
+    "dropout": 0.5,
+    "lr": 0.1,
+    "act": "sigmoid",
+    "norm": "batch",
+    "heads": 2,
+    "heads_idx": 1,
+    "concat_heads": false
+  },
+  "best_score": 1.5260419845581055,
+  "best_model": "GCN",
+  "best_model_heads": 4,
+  "best_model_concat": false,
+  "method": "optuna",
+  "n_iter": 1,
+  "restarts": 1,
+  "seed_base": 123,
+  "study_name": "neuromap_hptune_Delaware",
+  "storage_url": "sqlite:///neuromap_hptune_Delaware.db"
+}

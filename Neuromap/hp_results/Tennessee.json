@@ -1,0 +1,25 @@
+{
+  "network_name": "Tennessee",
+  "best_params": {
+    "hidden_channels": 95,
+    "num_layers": 2,
+    "out_channels": 8,
+    "dropout": 0.2,
+    "lr": 0.01,
+    "act": "selu",
+    "norm": "batch",
+    "heads": 2,
+    "heads_idx": 3,
+    "concat_heads": false
+  },
+  "best_score": 5.415632247924805,
+  "best_model": "GCN",
+  "best_model_heads": 32,
+  "best_model_concat": false,
+  "method": "optuna",
+  "n_iter": 1,
+  "restarts": 1,
+  "seed_base": 123,
+  "study_name": "neuromap_hptune_Tennessee",
+  "storage_url": "sqlite:///neuromap_hptune_Tennessee.db"
+}

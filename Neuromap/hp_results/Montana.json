@@ -1,0 +1,25 @@
+{
+  "network_name": "Montana",
+  "best_params": {
+    "hidden_channels": 224,
+    "num_layers": 10,
+    "out_channels": 8,
+    "dropout": 0.2,
+    "lr": 0.001,
+    "act": "relu",
+    "norm": "batch",
+    "heads": 2,
+    "heads_idx": 1,
+    "concat_heads": false
+  },
+  "best_score": 5.415225505828857,
+  "best_model": "GCN",
+  "best_model_heads": 4,
+  "best_model_concat": false,
+  "method": "optuna",
+  "n_iter": 1,
+  "restarts": 1,
+  "seed_base": 123,
+  "study_name": "neuromap_hptune_Montana",
+  "storage_url": "sqlite:///neuromap_hptune_Montana.db"
+}

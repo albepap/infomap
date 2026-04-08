@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="v_lat" for="node" attr.name="lat" attr.type="double"/>
+  <key id="v_lon" for="node" attr.name="lon" attr.type="double"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">69085</data>
+      <data key="v_label">Northern Islands</data>
+      <data key="v_lat">17.9492777777778</data>
+      <data key="v_lon">145.692241666667</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">69100</data>
+      <data key="v_label">Rota</data>
+      <data key="v_lat">14.1573333333333</data>
+      <data key="v_lon">145.214491666667</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">69110</data>
+      <data key="v_label">Saipan</data>
+      <data key="v_lat">15.1889027777778</data>
+      <data key="v_lon">145.753588888889</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">69120</data>
+      <data key="v_label">Tinian</data>
+      <data key="v_lat">15.0026666666667</data>
+      <data key="v_lon">145.626783333333</data>
+    </node>
+    <edge source="n1" target="n2">
+      <data key="e_weight">9674560</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,25 @@
+{
+  "network_name": "Connecticut",
+  "best_params": {
+    "hidden_channels": 32,
+    "num_layers": 6,
+    "out_channels": 24,
+    "dropout": 0.5,
+    "lr": 0.01,
+    "act": "relu",
+    "norm": "batch",
+    "heads": 2,
+    "heads_idx": 0,
+    "concat_heads": false
+  },
+  "best_score": 2.9339866638183594,
+  "best_model": "GCN",
+  "best_model_heads": 2,
+  "best_model_concat": false,
+  "method": "optuna",
+  "n_iter": 1,
+  "restarts": 1,
+  "seed_base": 123,
+  "study_name": "neuromap_hptune_Connecticut",
+  "storage_url": "sqlite:///neuromap_hptune_Connecticut.db"
+}

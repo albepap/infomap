@@ -1,0 +1,25 @@
+{
+  "network_name": "North_Dakota",
+  "best_params": {
+    "hidden_channels": 212,
+    "num_layers": 6,
+    "out_channels": 8,
+    "dropout": 0.0,
+    "lr": 0.0003,
+    "act": "selu",
+    "norm": "batch",
+    "heads": 2,
+    "heads_idx": 3,
+    "concat_heads": false
+  },
+  "best_score": 5.346315383911133,
+  "best_model": "GCN",
+  "best_model_heads": 32,
+  "best_model_concat": false,
+  "method": "optuna",
+  "n_iter": 1,
+  "restarts": 1,
+  "seed_base": 123,
+  "study_name": "neuromap_hptune_North_Dakota",
+  "storage_url": "sqlite:///neuromap_hptune_North_Dakota.db"
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="v_lat" for="node" attr.name="lat" attr.type="double"/>
+  <key id="v_lon" for="node" attr.name="lon" attr.type="double"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">60010</data>
+      <data key="v_label">Eastern</data>
+      <data key="v_lat">-14.2743527777778</data>
+      <data key="v_lon">-170.658738888889</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">60020</data>
+      <data key="v_label">Manu&apos;a</data>
+      <data key="v_lat">-14.2217777777778</data>
+      <data key="v_lon">-169.506036111111</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">60050</data>
+      <data key="v_label">Western</data>
+      <data key="v_lat">-14.323525</data>
+      <data key="v_lon">-170.768191666667</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">60030</data>
+      <data key="v_label">Rose Island</data>
+      <data key="v_lat">-14.5436666666667</data>
+      <data key="v_lon">-168.146830555556</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">60040</data>
+      <data key="v_label">Swains Island</data>
+      <data key="v_lat">-11.0549666666667</data>
+      <data key="v_lon">-171.078175</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_weight">11086163</data>
+    </edge>
+  </graph>
+</graphml>

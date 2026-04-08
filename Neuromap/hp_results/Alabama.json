@@ -1,0 +1,25 @@
+{
+  "network_name": "Alabama",
+  "best_params": {
+    "hidden_channels": 33,
+    "num_layers": 2,
+    "out_channels": 24,
+    "dropout": 0.0,
+    "lr": 0.003,
+    "act": "selu",
+    "norm": "batch",
+    "heads": 2,
+    "heads_idx": 1,
+    "concat_heads": false
+  },
+  "best_score": 5.106155872344971,
+  "best_model": "GCN",
+  "best_model_heads": 4,
+  "best_model_concat": false,
+  "method": "optuna",
+  "n_iter": 1,
+  "restarts": 1,
+  "seed_base": 123,
+  "study_name": "neuromap_hptune_Alabama",
+  "storage_url": "sqlite:///hp_results/neuromap_hptune_Alabama.db"
+}

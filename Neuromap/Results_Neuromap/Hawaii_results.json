@@ -1,0 +1,49 @@
+{
+    "state_name": "Hawaii",
+    "best_hyperparameters": {
+        "hidden_channels": 20,
+        "num_layers": 6,
+        "out_channels": 4,
+        "dropout": 0.5,
+        "lr": 0.1,
+        "act": "selu",
+        "norm": "batch",
+        "heads": 2,
+        "heads_idx": 2,
+        "concat_heads": false
+    },
+    "final_L_bits": 1.9963022470474243,
+    "num_communities": 2,
+    "M_matrix": [
+        [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        [
+            0.0,
+            1.0,
+            0.0,
+            0.0
+        ],
+        [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+        ]
+    ]
+}

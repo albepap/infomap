@@ -1,0 +1,25 @@
+{
+  "network_name": "Kansas",
+  "best_params": {
+    "hidden_channels": 105,
+    "num_layers": 6,
+    "out_channels": 32,
+    "dropout": 0.5,
+    "lr": 0.01,
+    "act": "selu",
+    "norm": "batch",
+    "heads": 2,
+    "heads_idx": 3,
+    "concat_heads": false
+  },
+  "best_score": 6.086061954498291,
+  "best_model": "GCN",
+  "best_model_heads": 32,
+  "best_model_concat": false,
+  "method": "optuna",
+  "n_iter": 1,
+  "restarts": 1,
+  "seed_base": 123,
+  "study_name": "neuromap_hptune_Kansas",
+  "storage_url": "sqlite:///neuromap_hptune_Kansas.db"
+}

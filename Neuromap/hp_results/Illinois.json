@@ -1,0 +1,25 @@
+{
+  "network_name": "Illinois",
+  "best_params": {
+    "hidden_channels": 408,
+    "num_layers": 4,
+    "out_channels": 32,
+    "dropout": 0.2,
+    "lr": 0.001,
+    "act": "selu",
+    "norm": "batch",
+    "heads": 2,
+    "heads_idx": 1,
+    "concat_heads": false
+  },
+  "best_score": 5.421648979187012,
+  "best_model": "GCN",
+  "best_model_heads": 4,
+  "best_model_concat": false,
+  "method": "optuna",
+  "n_iter": 1,
+  "restarts": 1,
+  "seed_base": 123,
+  "study_name": "neuromap_hptune_Illinois",
+  "storage_url": "sqlite:///neuromap_hptune_Illinois.db"
+}

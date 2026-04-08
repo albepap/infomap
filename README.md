@@ -8,7 +8,7 @@ part of the Master’s Degree in **Physics of Data** at the **University of Pado
 ---
 
 ## Project Overview
-This project focuses on **community detection in complex networks** through the implementation of the **Infomap algorithm** and the **map equation framework**:contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}. The main goals are:
+This project focuses on **community detection in complex networks** through the implementation of the **Infomap algorithm** and the **map equation framework**. The main goals are:
 
 1. **Implementation of Infomap**  
    - We develop our own implementation of the Infomap algorithm, which uses random walks and information-theoretic compression to uncover community structures in networks.  

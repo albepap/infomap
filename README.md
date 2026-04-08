@@ -33,5 +33,5 @@ This project focuses on **community detection in complex networks** through the 
 ---
 
 ## References
-- Rosvall, M., & Bergstrom, C. T. (2008). *Maps of random walks on complex networks reveal community structure.* PNAS, 105(4), 1118–1123:contentReference[oaicite:2]{index=2}.  
-- Rosvall, M., & Bergstrom, C. T. (2008). *Supporting Information: The map equation and algorithmic implementation.*:contentReference[oaicite:3]{index=3}  
+- Rosvall, M., & Bergstrom, C. T. (2008). *Maps of random walks on complex networks reveal community structure.* PNAS, 105(4), 1118–1123.  
+- Rosvall, M., & Bergstrom, C. T. (2008). *Supporting Information: The map equation and algorithmic implementation.*  

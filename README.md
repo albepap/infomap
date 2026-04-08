@@ -35,3 +35,4 @@ This project focuses on **community detection in complex networks** through the 
 ## References
 - Rosvall, M., & Bergstrom, C. T. (2008). *Maps of random walks on complex networks reveal community structure.* PNAS, 105(4), 1118–1123.  
 - Rosvall, M., & Bergstrom, C. T. (2008). *Supporting Information: The map equation and algorithmic implementation.*  
+- Blöcker, C., Tan, C., & Scholtes, I. (2024). *The Map Equation Goes Neural: Mapping Network Flows with Graph Neural Networks.* 38th Conference on Neural Information Processing Systems (NeurIPS 2024).
